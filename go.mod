@@ -5,8 +5,7 @@ go 1.25.0
 require (
 	github.com/minio/minio-go/v7 v7.2.1
 	github.com/storage-lock/go-s3-storage v0.0.2
-	github.com/storage-lock/go-storage v0.0.3
-	github.com/storage-lock/go-storage-test-helper v0.0.5
+	github.com/storage-lock/go-storage v0.1.0
 	github.com/stretchr/testify v1.11.1
 )
 
@@ -30,6 +29,7 @@ require (
 	github.com/storage-lock/go-events v0.0.5 // indirect
 	github.com/storage-lock/go-storage-events v0.0.6 // indirect
 	github.com/storage-lock/go-storage-lock v0.0.6 // indirect
+	github.com/storage-lock/go-storage-test-helper v0.0.5 // indirect
 	github.com/storage-lock/go-utils v0.0.2 // indirect
 	github.com/tinylib/msgp v1.6.1 // indirect
 	github.com/zeebo/xxh3 v1.1.0 // indirect
